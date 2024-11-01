@@ -6,9 +6,7 @@ using Model;
 using Model.Config;
 using UnityEngine;
 using Utilities;
-//hello i'm fine, and u?
-//me too, ty!
-// xyz
+//hello i'm fine, and u? rework
 namespace Controller
 {
     public class BotController
