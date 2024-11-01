@@ -8,6 +8,7 @@ using UnityEngine;
 using Utilities;
 //hello i'm fine, and u? rework
 // LAE
+// EAL
 namespace Controller
 {
     public class BotController
